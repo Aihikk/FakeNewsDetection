@@ -21,9 +21,3 @@ This project uses the **Fake and Real News Dataset** to build a logistic regress
 - TfidfVectorizer
 - Logistic Regression
 
-## 🚀 How to Run
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/fake-news-detector.git
-   cd fake-news-detector
